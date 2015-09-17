@@ -2,6 +2,7 @@
 
 ## Requirements
  Install the latest version of selenium with 
+ 
  pip install -U selenium
 
 ## Description
